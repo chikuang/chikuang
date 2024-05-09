@@ -4,6 +4,4 @@ I obtained my [PhD](https://uwaterloo.ca/statistics-and-actuarial-science/) at U
 
 My hometown is Hsinchu & Taipei, Taiwan.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikuang)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=chikuang&show_icons=true)  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chikuang)](https://github.com/anuraghazra/github-readme-stats) ![GitHub stats](https://github-readme-stats.vercel.app/api?username=chikuang&show_icons=true)  
