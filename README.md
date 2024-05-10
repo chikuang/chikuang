@@ -1,5 +1,5 @@
 <p>
- <a href="[https://scholar.google.com/citations?hl=en&user=4IqQ-rwAAAAJ](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en)">
+ <a href="https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white" alt="Google SCholar Badge"/>
   </a>
   <a href="https://twitter.com/chikuang_y">
