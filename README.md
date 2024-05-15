@@ -1,3 +1,4 @@
+<!-- comments here
 <p>
  <a href="https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en">
     <img src="https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white" alt="Google SCholar Badge"/>
@@ -9,6 +10,20 @@
    <img src="img/cv.svg" alt="Curriculum Vitae">
   </a>
 </p>
+% [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en")
+% [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white )](https://www.researchgate.net/profile/Chi-Kuang-Yeh)
+ -->
+
+
+<div align="left">
+ 
+[![Google Scholar](https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en")
+[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/chikuang_y)
+[![Curriculum Vitae](img/cv.svg)](https://chikuang.github.io/CV_YCK_May6_2024.pdf)
+![GitHub last commit](https://img.shields.io/github/last-commit/chikuang/chikuang)
+![pv](https://pageview.vercel.app/?github_user=chikuang)
+
+</div>
 
 Hello, I am Chi-Kuang Yeh from the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada.
 
