@@ -21,8 +21,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/chikuang_y)
 [![Curriculum Vitae](img/cv.svg)](https://chikuang.github.io/CV_YCK_May6_2024.pdf)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chikuang/chikuang)
-![pv](https://pageview.vercel.app/?github_user=chikuang)
-
+![](https://komarev.com/ghpvc/?username=your-github-chikuang&color=blue)
 </div>
 
 Hello, I am Chi-Kuang Yeh from the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada.
