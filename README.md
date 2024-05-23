@@ -30,7 +30,7 @@ I obtained my [PhD](https://uwaterloo.ca/statistics-and-actuarial-science/) at U
 
 <p align="left">
   <img width="48%" src="img/UWaterloo-logo-white.png" />
- <img width="48%" src="img/uvic-logo.jpg" />
+ <img width="48%" src="img/uvic-logo-rev-cut.png" />
 </p>
 
 My hometown is [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) & Taipei, Taiwan.
