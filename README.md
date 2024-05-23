@@ -29,8 +29,8 @@ Hello, I am Chi-Kuang Yeh from the [University of Waterloo](https://uwaterloo.ca
 I obtained my [PhD](https://uwaterloo.ca/statistics-and-actuarial-science/) at UWaterloo and [MSc](https://www.uvic.ca/science/math-statistics/index.php) & BSc at the [University of Victoria](https://www.uvic.ca) (UVic), all in Canada.
 
 <p align="left">
-  <img width="48%" src="img/UWaterloo-logo-white.png" />
- <img width="48%" src="img/uvic-logo-rev-cut.png" />
+ <img width="30%" src="img/UWaterloo-logo-white.png" />
+ <img width="25%" src="img/uvic-logo-rev-cut.png" />
 </p>
 
 My hometown is [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) & Taipei, Taiwan.
