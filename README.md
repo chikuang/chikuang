@@ -24,7 +24,7 @@
 ![](https://komarev.com/ghpvc/?username=your-github-chikuang&color=blue)
 </div>
 
-Hello, I am Chi-Kuang Yeh from the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada. I also have affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/).
+Hello, I am Chi-Kuang Yeh from the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada. I will be moving to McGill University in September 2024. I also have affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/).
 
 I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/index.php) & BSc at the [University of Victoria](https://www.uvic.ca) (UVic).
 
