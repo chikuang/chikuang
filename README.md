@@ -6,7 +6,7 @@
   <a href="https://twitter.com/chikuang_y">
     <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
   </a>
-  <a href="https://chikuang.github.io/CV_YCK_May6_2024.pdf">
+  <a href="https://chikuang.github.io/CV_YCK_Jul15_2024.pdf">
    <img src="img/cv.svg" alt="Curriculum Vitae">
   </a>
 </p>
