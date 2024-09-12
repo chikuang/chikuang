@@ -29,6 +29,7 @@ Hello, I am Chi-Kuang Yeh from [McGill University](https://www.mcgill.ca/) and t
 I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/current-students/graduate/programs/masters/index.php) & [BSc](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/mathematics-and-statistics.php) at the [University of Victoria](https://www.uvic.ca) (UVic).
 
 <p align="left">
+ <img width="20%" src="img/mcgill-logo.png" />
  <img width="20%" src="img/uw-logo.png" />
  <img width="18%" src="img/uvic-logo.png" />
 </p>
