@@ -19,7 +19,7 @@
  
 [![Google Scholar](https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en")
 [![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/chikuang_y)
-[![Curriculum Vitae](img/cv.svg)](https://chikuang.github.io/CV_YCK_Jul15_2024.pdf)
+[![Curriculum Vitae](img/cv.svg)](https://chikuang.github.io/CV_YCK_Nov3_24.pdf)
 ![GitHub last commit](https://img.shields.io/github/last-commit/chikuang/chikuang)
 ![](https://komarev.com/ghpvc/?username=your-github-chikuang&color=blue)
 </div>
