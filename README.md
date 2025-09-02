@@ -29,6 +29,7 @@ Hello, I am Chi-Kuang Yeh from [Georgia State University](https://www.gsu.edu/).
 Previously, I was at [McGill University](https://www.mcgill.ca/) and the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada. I also had affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/). I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/current-students/graduate/programs/masters/index.php) & [BSc](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/mathematics-and-statistics.php) at the [University of Victoria](https://www.uvic.ca) (UVic).
 
 <p align="left">
+ <img width="12%" src="img/GSU-logo-blue.png" />
  <img width="20%" src="img/mcgill-logo.png" />
  <img width="20%" src="img/uw-logo.png" />
  <img width="18%" src="img/uvic-logo.png" />
