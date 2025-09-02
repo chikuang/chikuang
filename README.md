@@ -24,9 +24,9 @@
 ![](https://komarev.com/ghpvc/?username=your-github-chikuang&color=blue)
 </div>
 
-Hello, I am Chi-Kuang Yeh from [McGill University](https://www.mcgill.ca/) and the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada. I also have affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/).
+Hello, I am Chi-Kuang Yeh from [Georgia State University](https://www.gsu.edu/). 
 
-I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/current-students/graduate/programs/masters/index.php) & [BSc](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/mathematics-and-statistics.php) at the [University of Victoria](https://www.uvic.ca) (UVic).
+Previously, I was at [McGill University](https://www.mcgill.ca/) and the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo), Canada. I also had affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/). I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/current-students/graduate/programs/masters/index.php) & [BSc](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/mathematics-and-statistics.php) at the [University of Victoria](https://www.uvic.ca) (UVic).
 
 <p align="left">
  <img width="20%" src="img/mcgill-logo.png" />
