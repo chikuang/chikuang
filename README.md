@@ -39,6 +39,4 @@ My hometown is [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) & Taipei, Taiwan
 
 <p align="left">
   <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chikuang&show_icons=true&theme=tokyonight" />
-  
-  <img width="35%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=chikuang&theme=tokyonight" />
 </p>
