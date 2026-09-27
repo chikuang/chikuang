@@ -7,6 +7,15 @@ I'm an **Assistant Professor in Statistics** at <a href="https://www.gsu.edu/"><
 [![X / Twitter](img/badges/twitter-bird.svg)](https://twitter.com/chikuang_y)
 [![Curriculum Vitae](img/badges/cv.svg)](https://chikuang.github.io/CV_YCK_Sep19_2026.pdf)
 
+**🔬 What I do**
+
+- 📊 **Statistics & machine learning:** functional data analysis, high-dimensional statistical inference, dependence modeling, and optimal experimental design.
+- 🤖 **AI:** LLM alignment and retrieval-augmented generation (RAG) with uncertainty quantification.
+
+My applications include 💊 drug discovery and development, 🧪 toxicology, 🧠 neuroscience, 🌌 cosmic ray studies, and 🏀 sports.
+
+😸 I welcome inquiries about supervision and research collaboration!
+
 **🎓 Academic journey**
 
 I was a postdoctoral scholar at <a href="https://www.mcgill.ca/"><img src="img/institutions/inline/mcgill.svg" alt="" width="10" height="14">&nbsp;McGill University</a> jointly with the <a href="https://uwaterloo.ca/"><img src="img/institutions/inline/waterloo.svg" alt="" width="12" height="14">&nbsp;University of Waterloo</a>, supported by the <a href="https://canssi.ca/"><img src="img/institutions/inline/canssi.svg" alt="" width="14" height="14">&nbsp;Canadian Statistical Sciences Institute</a> (CANSSI). I have also been affiliated with <a href="https://mila.quebec/en/directory/chi-kuang-yeh"><picture><source media="(prefers-color-scheme: dark)" srcset="img/institutions/inline/mila-dark.svg"><img src="img/institutions/inline/mila.svg" alt="" width="14" height="14"></picture>&nbsp;Mila – Quebec AI Institute</a> and the <a href="https://uwaterloo.ca/health-data-science-lab/"><img src="img/institutions/inline/waterloo.svg" alt="" width="12" height="14">&nbsp;Health Data Science Lab</a>.
