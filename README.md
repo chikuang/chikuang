@@ -23,7 +23,7 @@ I earned my **PhD** at <a href="https://uwaterloo.ca/"><img src="img/institution
 
 🏡 My hometowns are [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) and [Taipei](https://en.wikipedia.org/wiki/Taipei), Taiwan.
 
-💻 [Browse my repositories →](https://github.com/chikuang?tab=repositories) · [Visit my academic website →](https://chikuang.github.io/)
+💻 [Browse my repositories →](https://github.com/chikuang?tab=repositories)
 
 <!-- Preserve the existing counter key so accumulated profile views are retained. -->
 ![Profile views](https://komarev.com/ghpvc/?username=your-github-chikuang&label=Profile%20views&color=0969da&style=flat)
