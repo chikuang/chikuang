@@ -18,8 +18,9 @@ Retrieved September 27, 2026. Logos belong to their respective institutions.
 
 ## Inline marks
 
-The small inline marks use the same 20 px height and transparent vector assets
-as the academic website. Georgia State and Mila have light and dark variants.
+The small inline marks reuse the academic website's transparent vector assets
+at 14 px high to fit the profile text without increasing line spacing. Widths
+are scaled proportionally. Georgia State and Mila have light and dark variants.
 
 - https://chikuang.github.io/images/institutions/georgia-state-mark.svg
 - https://chikuang.github.io/images/institutions/georgia-state-mark-dark.svg
