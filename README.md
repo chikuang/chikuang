@@ -1,42 +1,32 @@
-<!-- comments here
+# Hi, I'm Chi-Kuang Yeh 👋
+
+I'm an **Assistant Professor in Statistics** at [Georgia State University](https://www.gsu.edu/).
+
+[![Website](img/badges/website.svg)](https://chikuang.github.io/)
+[![Google Scholar](img/badges/scholar.svg)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en)
+[![X / Twitter](img/badges/twitter.svg)](https://twitter.com/chikuang_y)
+[![Curriculum Vitae](img/badges/cv.svg)](https://chikuang.github.io/CV_YCK_Sep19_2026.pdf)
+
+## 🎓 Academic journey
+
+Previously, I was at [McGill University](https://www.mcgill.ca/), the [University of Waterloo](https://uwaterloo.ca/), and the [University of Victoria](https://www.uvic.ca/) in Canada. I have also been affiliated with [Mila – Quebec AI Institute](https://mila.quebec/en/directory/chi-kuang-yeh) and the [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/).
+
+I earned my **PhD at Waterloo** and my **MSc and BSc at Victoria**.
+
+<!-- Opaque SVG cards keep every institution's logo on the same background in both GitHub themes. -->
 <p>
- <a href="https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en">
-    <img src="https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white" alt="Google SCholar Badge"/>
-  </a>
-  <a href="https://twitter.com/chikuang_y">
-    <img src="https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue" alt="Twitter Badge"/>
-  </a>
-  <a href="https://chikuang.github.io/CV_YCK_Nov3_24.pdf">
-   <img src="img/cv.svg" alt="Curriculum Vitae">
-  </a>
-</p>
-% [![Google Scholar](https://img.shields.io/badge/Google%20Scholar-4285F4.svg?style=for-the-badge&logo=Google-Scholar&logoColor=white)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en")
-% [![ResearchGate](https://img.shields.io/badge/ResearchGate-00CCBB?style=for-the-badge&logo=ResearchGate&logoColor=white )](https://www.researchgate.net/profile/Chi-Kuang-Yeh)
- -->
-
-
-<div align="left">
- 
-[![Google Scholar](https://img.shields.io/badge/Google-red?style=flat&logo=google&logoColor=white)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en")
-[![Twitter](https://img.shields.io/badge/Twitter-white?style=flat&logo=twitter&logoColor=blue)](https://twitter.com/chikuang_y)
-[![Curriculum Vitae](img/cv.svg)](https://chikuang.github.io/CV_YCK_May7_26.pdf)
-![GitHub last commit](https://img.shields.io/github/last-commit/chikuang/chikuang)
-![](https://komarev.com/ghpvc/?username=your-github-chikuang&color=blue)
-</div>
-
-Hello, I am Chi-Kuang Yeh from [Georgia State University](https://www.gsu.edu/). 
-
-Previously, I was at [McGill University](https://www.mcgill.ca/), the [University of Waterloo](https://uwaterloo.ca/) (UWaterloo) and Univrsity of Vicotria (UVic), Canada. I also had affiliations with [Mila - Quebec AI Institute](https://mila.quebec/en/chi-kuang-yeh), and [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/). I obtained my [PhD](https://uwaterloo.ca) at UWaterloo, and [MSc](https://www.uvic.ca/science/math-statistics/current-students/graduate/programs/masters/index.php) & [BSc](https://www.uvic.ca/undergraduate/programs/undergraduate-programs/pages/mathematics-and-statistics.php) at the [University of Victoria](https://www.uvic.ca) (UVic).
-
-<p align="left">
- <img width="12%" src="img/GSU-logo-blue.png" />
- <img width="20%" src="img/mcgill-logo.png" />
- <img width="20%" src="img/uw-logo.png" />
- <img width="18%" src="img/uvic-logo.png" />
+  <a href="https://www.gsu.edu/"><img src="img/institutions/gsu.svg" alt="Georgia State University" width="160" height="93"></a>
+  <a href="https://www.mcgill.ca/"><img src="img/institutions/mcgill.svg" alt="McGill University" width="160" height="93"></a>
+  <a href="https://uwaterloo.ca/"><img src="img/institutions/waterloo.svg" alt="University of Waterloo" width="160" height="93"></a>
+  <a href="https://www.uvic.ca/"><img src="img/institutions/uvic.svg" alt="University of Victoria" width="160" height="93"></a>
 </p>
 
-My hometown is [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) & Taipei, Taiwan.
+🏡 My hometowns are [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) and [Taipei](https://en.wikipedia.org/wiki/Taipei), Taiwan. 🇹🇼
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=chikuang&show_icons=true&theme=tokyonight" />
-</p>
+## 💻 Explore my work
+
+[Browse my repositories →](https://github.com/chikuang?tab=repositories) · [Visit my academic website →](https://chikuang.github.io/)
+
+<!-- Preserve the existing counter key so accumulated profile views are retained. -->
+![Profile views](https://komarev.com/ghpvc/?username=your-github-chikuang&label=Profile%20views&color=0969da&style=flat)
+![GitHub last commit](https://img.shields.io/github/last-commit/chikuang/chikuang?label=Profile%20updated&color=0969da&style=flat)
