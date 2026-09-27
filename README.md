@@ -1,6 +1,6 @@
 ### Hi, I'm Chi-Kuang Yeh 👋
 
-I'm an **Assistant Professor in Statistics** at [Georgia State University](https://www.gsu.edu/).
+I'm an **Assistant Professor in Statistics** at <a href="https://www.gsu.edu/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/institutions/inline/gsu-dark.svg"><img src="img/institutions/inline/gsu.svg" alt="" width="19" height="20"></picture>&nbsp;Georgia State University</a>.
 
 [![Website](img/badges/website.svg)](https://chikuang.github.io/)
 [![Google Scholar](img/badges/scholar.svg)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en)
@@ -9,9 +9,9 @@ I'm an **Assistant Professor in Statistics** at [Georgia State University](https
 
 **🎓 Academic journey**
 
-Previously, I was at [McGill University](https://www.mcgill.ca/), the [University of Waterloo](https://uwaterloo.ca/), and the [University of Victoria](https://www.uvic.ca/) in Canada. I have also been affiliated with [Mila – Quebec AI Institute](https://mila.quebec/en/directory/chi-kuang-yeh) and the [Health Data Science Lab](https://uwaterloo.ca/health-data-science-lab/).
+Previously, I was at <a href="https://www.mcgill.ca/"><img src="img/institutions/inline/mcgill.svg" alt="" width="15" height="20">&nbsp;McGill University</a>, the <a href="https://uwaterloo.ca/"><img src="img/institutions/inline/waterloo.svg" alt="" width="17" height="20">&nbsp;University of Waterloo</a>, and the <a href="https://www.uvic.ca/"><img src="img/institutions/inline/uvic.svg" alt="" width="17" height="20">&nbsp;University of Victoria</a> in Canada. I have also been affiliated with <a href="https://mila.quebec/en/directory/chi-kuang-yeh"><picture><source media="(prefers-color-scheme: dark)" srcset="img/institutions/inline/mila-dark.svg"><img src="img/institutions/inline/mila.svg" alt="" width="20" height="20"></picture>&nbsp;Mila – Quebec AI Institute</a> and the <a href="https://uwaterloo.ca/health-data-science-lab/"><img src="img/institutions/inline/waterloo.svg" alt="" width="17" height="20">&nbsp;Health Data Science Lab</a>.
 
-I earned my **PhD at Waterloo** and my **MSc and BSc at Victoria**.
+I earned my **PhD** at <a href="https://uwaterloo.ca/"><img src="img/institutions/inline/waterloo.svg" alt="" width="17" height="20">&nbsp;Waterloo</a> and my **MSc and BSc** at <a href="https://www.uvic.ca/"><img src="img/institutions/inline/uvic.svg" alt="" width="17" height="20">&nbsp;Victoria</a>.
 
 <!-- Transparent logos switch colors with the GitHub theme. -->
 <p>
@@ -21,7 +21,7 @@ I earned my **PhD at Waterloo** and my **MSc and BSc at Victoria**.
   <a href="https://www.uvic.ca/"><picture><source media="(prefers-color-scheme: dark)" srcset="img/institutions/uvic-dark.svg"><img src="img/institutions/uvic.svg" alt="University of Victoria" width="108" height="48"></picture></a>
 </p>
 
-🏡 My hometowns are [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) and [Taipei](https://en.wikipedia.org/wiki/Taipei), Taiwan. 🇹🇼
+🏡 My hometowns are [Hsinchu](https://en.wikipedia.org/wiki/Hsinchu) and [Taipei](https://en.wikipedia.org/wiki/Taipei), Taiwan.
 
 💻 [Browse my repositories →](https://github.com/chikuang?tab=repositories) · [Visit my academic website →](https://chikuang.github.io/)
 
