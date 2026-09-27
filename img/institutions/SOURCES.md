@@ -29,3 +29,4 @@ are scaled proportionally. Georgia State and Mila have light and dark variants.
 - https://chikuang.github.io/images/institutions/uvic-mark.svg
 - https://chikuang.github.io/images/institutions/mila-mark.svg
 - https://chikuang.github.io/images/institutions/mila-mark-dark.svg
+- https://chikuang.github.io/images/institutions/canssi.svg
