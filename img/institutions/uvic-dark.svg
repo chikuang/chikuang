@@ -3,7 +3,7 @@
   <svg viewBox="0 0 300 105" width="100" height="38" x="4.0" y="5.0" preserveAspectRatio="xMidYMid meet">
     <title>University of Victoria</title>
     <defs id="defs535">
-      <style id="style524">.cls-1{fill:none;}.cls-2{fill:#231f20;}.cls-3{clip-path:url(#clip-path);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:#fff;}.cls-6{fill:#ef3e42;}.cls-7{clip-path:url(#clip-path-3);}.cls-8{fill:#fdb927;}.wordmark{fill:#231f20;}</style>
+      <style id="style524">.cls-1{fill:none;}.cls-2{fill:#231f20;}.cls-3{clip-path:url(#clip-path);}.cls-4{clip-path:url(#clip-path-2);}.cls-5{fill:#fff;}.cls-6{fill:#ef3e42;}.cls-7{clip-path:url(#clip-path-3);}.cls-8{fill:#fdb927;}.wordmark{fill:#fff;}</style>
       <clipPath id="clip-path">
         <path class="cls-1" d="m 13.58,33.14 c -4.47,0 -13,-6 -13,-15.47 v -5.14 h 26 v 5.14 c 0,9.45 -8.5,15.47 -12.94,15.47 z" />
       </clipPath>
