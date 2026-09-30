@@ -5,7 +5,7 @@ I'm an **Assistant Professor in Statistics** at <a href="https://www.gsu.edu/"><
 [![Website](img/badges/website.svg)](https://chikuang.github.io/)
 [![Google Scholar](img/badges/scholar.svg)](https://scholar.google.ca/citations?user=_v_Vy1sAAAAJ&hl=en)
 [![X / Twitter](img/badges/twitter-bird.svg)](https://twitter.com/chikuang_y)
-[![Curriculum Vitae](img/badges/cv.svg)](https://chikuang.github.io/CV_YCK_Sep19_2026.pdf)
+[![Curriculum Vitae](img/badges/cv.svg)](https://chikuang.github.io/CV.pdf)
 
 **🔬 What I do**
 
